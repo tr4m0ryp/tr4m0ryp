@@ -1,12 +1,24 @@
 # 🍏 Everything Started with an Apple 🍏
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile;Ethical+Hacker+and+Apple+Lover;Coding+Wizard+in+Progress)
 
----
+```markdown
+       .:':                                  ':.
+    ::'                                         ':
+  :: :.    .:::.         .:.         ':.      .::
+   `:. `:. `::'      .'| |`'       :'   .:.  :'
+    `::. `::        :::.|.:::     .::' .::'
+        `::':::   :::.'.'.:::.   ':::'
+          ':.  `::' .'|'.'::'   ':
+           '::   ::::'.'.::::   ::
+            :::.'::::::::::::.::::
+            :::::::::::::::::::::
+             ::::::::::::::::::::
+              ':::::::::::::::::'
+                ':::::::::::::'
+                  ':::::::::'
+                    ':::::'
+                      '
 
----
-
----
 
 ## 📈 My GitHub Stats
 
