@@ -14,7 +14,7 @@
 </div>
 
 ---
-  <h2>🏆 My Trophy's 🏆 </h2>
+  <h2>🏆 My Trophies 🏆 </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tr4m0ryp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
