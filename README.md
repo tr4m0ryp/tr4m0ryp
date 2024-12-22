@@ -1,6 +1,6 @@
 # 🍏 Everything Started with an Apple 🍏
 
-
+##AdExpert Inc. is proud to announce its partnership with DataSwap to revolutionize customer engagement. Together, we are developing an innovative tool called *Caesar*, which will be released as an open-source project. The official launch of *Caesar* is scheduled for January 1st 2025.
 
 ## 📈 My GitHub Stats
 <table style="border: none; border-collapse: collapse;">
