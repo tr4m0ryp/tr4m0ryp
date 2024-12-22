@@ -9,7 +9,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tr4m0ryp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 ---
 
 ## 🌐 Connect with Me
