@@ -1,15 +1,10 @@
-# 🍏 Everything started with an apple 🍏
+# 🍏 Everything Started with an Apple 🍏
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Apple+Enthusiast;Code+Wizard+in+Training)
-
----
-
-   .:'                                  `:.
-::'                                     `::
-:: :. .:: :. :. . .:' .:' ::. :: !O! ::' .::' ::.::. .'|. .::'.::' :. ::::(_)::::' ::' :: .:::::::::. ::' ::::'::::::::::::::: :::::::::::::::::::: :::::::::::::::::: :::::::::::::::' :::::::::::' :::::::' :::' '
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile;Ethical+Hacker+and+Apple+Lover;Coding+Wizard+in+Progress)
 
 ---
 
+---
 
 ---
 
@@ -19,13 +14,24 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
+---
+
+## 🐛 Worm Game: Eating Apples 🍎
+
+### Watch the Worm Grow!
 ![GitHub Contribution Snake](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🍏 Fun Apple Facts
 
-> Did you know the 🍎 Apple logo is a nod to Alan Turing, the father of computing, who tragically passed away after eating a poisoned apple? I honor his legacy by striving to make the world safer and smarter.
+> 🍎 The Apple logo is a subtle nod to Alan Turing, the father of computing, who was inspired by knowledge and tragedy alike.
+
+> 🍏 Just like coding, growing apples takes patience. Did you know an apple tree takes 4–5 years to bear its first fruit?
+
+> 🍎 There are over 7,500 varieties of apples in the world. Similarly, programming languages offer a unique "flavor" for every need.
+
+> 🍏 Apples have hidden power—apple seeds contain cyanide! Handle carefully, just like your most secure code.
 
 ---
 
@@ -42,5 +48,7 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ---
+
+## 🎮 Fun Matrix Animation
 
 ![Matrix Effect](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
