@@ -36,3 +36,11 @@ AdExpert.Inc is pleased to announce a strategic partnership with DataSwap to dev
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
 
 ---
+
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tr4m0ryp}/count.svg" /></p> 
+</div>
+<br>
+</details>
