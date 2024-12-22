@@ -1,23 +1,31 @@
 # 🍏 Everything Started with an Apple 🍏
 
 
-```markdown
-       .:':                                  ':.
-    ::'                                         ':
-  :: :.    .:::.         .:.         ':.      .::
-   `:. `:. `::'      .'| |`'       :'   .:.  :'
-    `::. `::        :::.|.:::     .::' .::'
-        `::':::   :::.'.'.:::.   ':::'
-          ':.  `::' .'|'.'::'   ':
-           '::   ::::'.'.::::   ::
-            :::.'::::::::::::.::::
-            :::::::::::::::::::::
-             ::::::::::::::::::::
-              ':::::::::::::::::'
-                ':::::::::::::'
-                  ':::::::::'
-                    ':::::'                     
-                      '                     #tr4m0ryp
+<div align="center">
+<pre>
+      MMM.           .MMM
+      MMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMM      MMMMMMMM
+     MMMMMMMMMMMMMMMMMMMMM    MMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMM MMMMMMMMMMMMMM
+    MMMM::- -:::::::- -::MMMMMMMMMMMMMMMMM
+     MM~:~   ~:::::~   ~:~MMMMMMMMMMMMMMM
+ .... MMMMM::. .:::. .::.MMMMMMMMMMMMMMM ....
+MMMMMM MMMMMM.  ':'  .MMMMMMMMMMMMMMMMMMMMMM
+MMMMMMM MMMMMMM      MMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMM MMMMMMMM-  -MMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMM MMMMMMMMd  MMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMM MMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMM MMMMMMMMM- MMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMM MMMMMMMM   MMMMMMMMMMMMMMMMMMMMMM
+ MMMMMMMMMMMM MMMMMMM   MMMMMMMMMMMMMMMMMMMMM
+  MMMMMMMMMMM MMMMMMM   MMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMM  MMMMMM   MMMMMMMMMMMMMMMMMM
+      MMMMMMM  MMMMMM   MMMMMMMMMMMMMMMMM
+           MMM  MMM    MMMMMMMMMMMMM
+</pre>
+</div>
 
 
 ## 📈 My GitHub Stats
