@@ -39,8 +39,4 @@ AdExpert.Inc is pleased to announce a strategic partnership with DataSwap to dev
 
 <div align="center">
 <br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tr4m0ryp}/count.svg" /></p> 
-</div>
-<br>
-</details>
+
