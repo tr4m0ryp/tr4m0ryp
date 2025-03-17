@@ -1,6 +1,6 @@
 # 🍏 Everything Started with an Apple 🍏
 
-The official launch of Caesar is scheduled for March 1st 2025.
+The official launch of Caesar is scheduled for ..... 1st 2025.
 
 ## 📈 My GitHub Stats
 <table style="border: none; border-collapse: collapse;">
