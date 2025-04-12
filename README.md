@@ -1,6 +1,6 @@
 # 🍏 Everything Started with an Apple 🍏
 
-##if you are interested in building a team to start projects; contact me on telegram: @tr4m0ryp; t.me/tr4m0ryp
+## If you are interested in building a team to start projects; contact me on telegram: @tr4m0ryp; t.me/tr4m0ryp
 
 ## 📈 My GitHub Stats
 <table style="border: none; border-collapse: collapse;">
