@@ -9,8 +9,12 @@ Hey! I'm a **Computer Science student** at the **University of Amsterdam** and *
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tr4m0ryp&show_icons=true&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tr4m0ryp&show_icons=true&theme=react&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tr4m0ryp&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tr4m0ryp&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </p>
 
 ## Connect With Me
