@@ -12,11 +12,6 @@ Hey! I'm a **Computer Science student** at the **University of Amsterdam** and *
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tr4m0ryp&show_icons=true&theme=react&hide_border=true&rank_icon=percentile&count_private=true"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=tr4m0ryp&theme=react&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tr4m0ryp&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</p>
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moussa-ouallaf)
