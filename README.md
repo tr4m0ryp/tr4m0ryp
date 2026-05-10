@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hey! I'm a **Computer Science student** at the **University of Amsterdam** and **Co-Founder** of **@Avelero**
+Hey! I'm a **Computer Science student** at the **University of Amsterdam**
 
 
 ---
