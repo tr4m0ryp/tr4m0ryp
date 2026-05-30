@@ -11,11 +11,6 @@ Hey! I'm a **Computer Science student** at the **University of Amsterdam**
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=tr4m0ryp&theme=react&hide_border=true"/>
 </p>
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moussa-ouallaf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moussal@avelero.com)
-
 ---
 
 ### Profile Views
