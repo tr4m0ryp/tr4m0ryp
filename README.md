@@ -11,7 +11,7 @@ Hey! I'm a **Computer Science student** at the **University of Amsterdam**
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=tr4m0ryp&theme=react&hide_border=true"/>
 </p>
----
+
 
 ### Profile Views
 
