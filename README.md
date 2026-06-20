@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hey! I'm a **Computer Science student** at the **University of Amsterdam**
+Hey! I'm a **Computer Science student** at the **University of Amsterdam**, 19 yo
 
 
 ---
